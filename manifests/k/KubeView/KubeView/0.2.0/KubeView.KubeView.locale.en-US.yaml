@@ -1,0 +1,20 @@
+PackageIdentifier: KubeView.KubeView
+PackageVersion: 0.2.0
+PackageLocale: en-US
+Publisher: KubeView
+PublisherUrl: https://kubeview.sengporkeat.com
+PackageName: KubeView
+PackageUrl: https://kubeview.sengporkeat.com
+License: Apache-2.0
+LicenseUrl: https://github.com/PorKeat/KubeView/blob/main/LICENSE
+ShortDescription: Local-first Kubernetes desktop IDE with a fleet catalog, 36 resource pages, Helm browsing, telemetry, logs, and exec.
+Description: KubeView is a local-first Kubernetes desktop application with a live cluster rail and catalog, complete resource coverage, Helm release inventory and chart browsing, telemetry, watch streams, logs, interactive exec, resource inspection, safety guardrails, and GitOps drift review without agents or accounts.
+ReleaseNotesUrl: https://github.com/PorKeat/KubeView/releases/tag/v0.2.0
+Moniker: kubeview
+Tags:
+  - kubernetes
+  - ide
+  - devops
+  - dashboard
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
